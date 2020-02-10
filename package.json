@@ -1,0 +1,22 @@
+{
+  "name": "test-mailer",
+  "version": "1.0.0",
+  "description": "Nodemailer test on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prynce00/nodemailer.git"
+  },
+  "author": "Prince Coching",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prynce00/nodemailer/issues"
+  },
+  "homepage": "https://github.com/prynce00/nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.2"
+  }
+}
